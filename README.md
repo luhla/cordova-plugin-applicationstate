@@ -20,7 +20,7 @@ Attribution — You **must** give appropriate credit, provide a link to the lice
 
 ### Installation
 ```sh
-$ cordova plugin add https://github.com/leomylonas/cordova-plugin-applicationstate.git
+$ cordova plugin add https://github.com/luhla/cordova-plugin-applicationstate.git
 ```
 
 ### Uninstallation
